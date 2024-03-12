@@ -47,20 +47,12 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreentoGif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
-
-## Original App Layout (Optional Stretch Feature)
-
-Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
-
-It is for an app that **brief description**.
-
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
