@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="twitch_purple">#8849ea</color>
+    <color name="twitch_gray_light">#eaeaea</color>
+    <color name="twitch_gray_dark">#dedede</color>
+    <color name="twitch_gray_text">#7a7b83</color>
+    <color name="twitch_gray_background">#f7f7f7</color>
+    <color name="spotify_green">#1DB954</color>
+</resources>
