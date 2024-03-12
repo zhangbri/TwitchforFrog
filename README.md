@@ -8,26 +8,24 @@ Time spent: **4** hours spent in total
 
 ## Summary
 
-**Twitch for Frog** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  **Change or add to this description**
+**Twitch for Frog**  is an innovative Android app designed specifically for our amphibian friends. With its user-friendly interface, frogs can effortlessly create and sign into their Twitch Frog accounts!
 
 If I had to describe this project in three (3) emojis, they would be: **🐸📺🎊**
 
 ## Application Features
 
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
 The following REQUIRED features are completed:
 
-- [ ] Pick an app screenshot to duplicate
+- [X] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
+- [X] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [X] Layout uses one (1) or more ConstraintLayout
+- [X] Layout uses one (1) or more ImageView
+- [X] Layout uses three (3) or more TextViews
 
 The following STRETCH features are implemented:
 
-- [ ] Create a custom-shape Button using Shape Drawables
+- [X] Create a custom-shape Button using Shape Drawables
 - [ ] Customize the text fonts by creating new Font Resources
 - [ ] Add Tooltips to your Views to help users understand how to navigate the UI
 - [ ] Create a second layout, this time for an original, personal app idea
@@ -37,8 +35,9 @@ The following EXTRA features are implemented:
 - [ ] List anything else that you added to improve the app!
 
 ## Chosen Screenshot
+![twitch](https://github.com/zhangbri/TwitchforFrog/assets/115335041/e5fccff8-4ca6-46cb-9d0e-cf0aca6b3b55)
 
-I have chosen to duplicate the following layout from the **App Name Here** app:
+I have chosen to duplicate the following layout from the **Twitch** app:
 
 <img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
