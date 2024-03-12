@@ -38,13 +38,17 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Twitch** app:
 
-<img src='https://imgur.com/YJ2PjyH.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<p align="center">
+  <img src='https://imgur.com/YJ2PjyH.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+</p>
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/JFKkZWQ.gif' title='Video Demo' width='' alt='Video Demo' />
+<p align="center">
+  <img src='https://imgur.com/JFKkZWQ.gif' title='Video Demo' width='' alt='Video Demo' />
+</p>
 
 GIF created with **ScreentoGif**
 
