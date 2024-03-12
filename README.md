@@ -35,17 +35,16 @@ The following EXTRA features are implemented:
 - [ ] List anything else that you added to improve the app!
 
 ## Chosen Screenshot
-![twitch](https://github.com/zhangbri/TwitchforFrog/assets/115335041/e5fccff8-4ca6-46cb-9d0e-cf0aca6b3b55)
 
 I have chosen to duplicate the following layout from the **Twitch** app:
 
-<img src='' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://imgur.com/YJ2PjyH.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/JFKkZWQ.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreentoGif**
 
@@ -56,7 +55,13 @@ GIF created with **ScreentoGif**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+- **Accessibility Focus:** Tailored interface for frogs, emphasizing innovative accessibility.
+- **Kotlin Debugging:** Overcame significant Kotlin bugs, highlighting the necessity of thorough testing.
+- **Widget Customization:** Showcased Android customization through diverse widgets, enhancing functionality.
+- **Secure Authentication:** Implemented secure sign-in for Twitch Frog accounts, learning about data security and authentication flows.
+- **UI/UX Importance:** Careful design choices in colors, fonts, and styles to suit theme and usability.
+- **Overcoming Challenges:** Persistence in solving unique technical problems underlines adaptability in development.
+- **User-Centric Design:** Iterated based on frog community feedback, emphasizing the role of user feedback in design.
 
 ## License
 
